@@ -31,6 +31,7 @@ compare them directly.
 ## Mockup
 
 ## Data Sources
+All of the below listed data was used for my static project, so the same exploration as stated in my static proposal has been done!
 
 ### Data Source 1: CPS student growth (Academic Progress Indicator)
 
