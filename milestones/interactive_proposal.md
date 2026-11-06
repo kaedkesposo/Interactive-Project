@@ -24,9 +24,6 @@ compare them directly.
 **Inspiration**
 - The interactive maps in the prior year examples that lets you pick what metrics shades the maps (Interactive CPD Stop Analysis Map and State-Level Health Insurance Enrollment Rates
 by Demographic Characteristics and Insurance Type)
-- *270toWin simulation map* (https://www.270towin.com/2024-simulation/): you click
-  areas on a map to build something and see the result change. I want that same
-  click-to-build feel for choosing groups of schools to compare.
 - *Google Public Data Explorer* (https://www.google.com/publicdata/explore): Similar to the above, you get
   pick the metrics that shades the map, along with what we're comparing (county, city, census tract, etc).
 
