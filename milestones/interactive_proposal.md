@@ -28,7 +28,8 @@ by Demographic Characteristics and Insurance Type)
   pick the metrics that shades the map, along with what we're comparing (county, city, census tract, etc).
 
 ## Mockup
-AI was (unfortunately) used to generate this mockup. I gave it the map that I made myself for the static and told it to add the selection box parts as well as the pinned part where you can compare area/schools/regions/etc
+AI was (unfortunately) used to generate this mockup. I gave it the map that I made myself for the static and told it to add the selection box parts as well as the pinned part where you can compare area/schools/regions/etc.
+I hope this is okay, as the assignment says to use any tool we wish. 
 ![Alt text](interactive-mockup.png)
 
 ## Data Sources
