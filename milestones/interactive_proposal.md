@@ -32,7 +32,7 @@ by Demographic Characteristics and Insurance Type)
 
 ## Mockup
 AI was (unfortunately) used to generate this mockup. I gave it the map that I made myself for the static and told it to add the selection box parts as well as the pinned part where you can compare area/schools/regions/etc
-![Alt text](milestones/interactive-mockup.png)
+![Alt text](interactive-mockup.png)
 
 ## Data Sources
 All of the below listed data was used for my static project, so the same exploration as stated in my static proposal has been done!
